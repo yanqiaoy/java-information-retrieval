@@ -8,7 +8,7 @@ import tokenizer.Tokenizer;
 
 /** The primary class that supports indexing and search.
  * 
- * @author ssanner@mie.utoronto.ca
+ * 
  *
  */
 public abstract class Index {
